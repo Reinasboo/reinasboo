@@ -1,0 +1,42 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" rx="24" fill="#091118" />
+  <path d="M0 64H1280M0 296H1280M72 0V360M1208 0V360" stroke="#1B2A34" />
+  <path d="M840 0V360" stroke="#24333D" />
+
+  <path d="M96 61L116 73V97L96 109L76 97V73L96 61Z" fill="#14232C" stroke="#D7E1E5" stroke-width="1.5" />
+  <path d="M76 73H116M96 61V109M76 73L96 109M116 73L96 109" stroke="#748791" stroke-width="1" />
+  <path d="M82 85H89L93 78L98 94L102 85H110" stroke="#F0B44B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="132" y="95" fill="#AEBCC5" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">PRODUCT DESIGN &amp; ENGINEERING</text>
+
+  <text x="72" y="183" fill="#F2F5F6" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2.7">Spectrolite</text>
+  <text x="76" y="228" fill="#D5DFE3" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Product design for systems where money and software meet.</text>
+  <circle cx="80" cy="275" r="4" fill="#F0B44B" />
+  <text x="94" y="280" fill="#9EAFB7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">ONCHAIN FINANCE</text>
+  <path d="M247 271H273" stroke="#35454F" />
+  <circle cx="292" cy="275" r="4" fill="#43C8DD" />
+  <text x="306" y="280" fill="#9EAFB7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">AI SYSTEMS</text>
+  <path d="M406 271H432" stroke="#35454F" />
+  <circle cx="451" cy="275" r="4" fill="#89D5AB" />
+  <text x="465" y="280" fill="#9EAFB7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PRODUCT DESIGN</text>
+
+  <path d="M702 179H832" stroke="#DCE5E8" stroke-opacity=".72" stroke-width="2" />
+  <path d="M702 179H832" stroke="#DCE5E8" stroke-opacity=".12" stroke-width="12" />
+  <circle cx="702" cy="179" r="4" fill="#DCE5E8" />
+  <path d="M832 83L1004 179L832 275L870 179L832 83Z" fill="#13232C" fill-opacity=".72" stroke="#72848D" stroke-width="1.4" />
+  <path d="M832 83L908 179L832 275M870 179H1004M908 179L832 83M908 179L832 275" stroke="#42545F" stroke-width="1" />
+  <path d="M1004 179C1070 179 1104 93 1208 77" stroke="#F0B44B" stroke-width="2" stroke-linecap="round" />
+  <path d="M1004 179C1080 179 1116 132 1208 132" stroke="#43C8DD" stroke-width="2" stroke-linecap="round" />
+  <path d="M1004 179H1208" stroke="#89D5AB" stroke-width="2" stroke-linecap="round" />
+  <path d="M1004 179C1080 179 1116 226 1208 226" stroke="#B5A0F2" stroke-width="2" stroke-linecap="round" />
+  <path d="M1004 179C1070 179 1104 265 1208 281" stroke="#E88770" stroke-width="2" stroke-linecap="round" />
+  <circle cx="1004" cy="179" r="5" fill="#F2F5F6" />
+  <circle cx="1208" cy="77" r="4" fill="#F0B44B" />
+  <circle cx="1208" cy="132" r="4" fill="#43C8DD" />
+  <circle cx="1208" cy="179" r="4" fill="#89D5AB" />
+  <circle cx="1208" cy="226" r="4" fill="#B5A0F2" />
+  <circle cx="1208" cy="281" r="4" fill="#E88770" />
+  <circle cx="1004" cy="179" r="3" fill="#FFF2C1" opacity="0">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M 0 0 C 66 0 100 -86 204 -102" />
+    <animate attributeName="opacity" values="0;0.88;0.88;0" keyTimes="0;0.1;0.83;1" dur="8s" repeatCount="indefinite" />
+  </circle>
+</svg>

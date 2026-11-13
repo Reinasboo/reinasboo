@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Spectrolite — products for systems where money and software meet." width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/banner.svg" />
+    <img src="./assets/banner-motion.svg" alt="Spectrolite — product design and engineering for systems where money and software meet." width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -14,10 +17,29 @@
   <a href="https://x.com/sharpmetaa">Open to work & collaborations</a>
 </p>
 
-I’m **Spectrolite** — a product-focused software engineer with **4 years of
+I’m **Spectrolite** — a product designer and software engineer with **4 years of
 experience** building across onchain finance, AI, market infrastructure, and
-consumer products. I enjoy owning the whole problem, from system architecture
-and risk controls to the details people interact with.
+consumer products. I take products from problem framing and user flows through
+visual systems, interaction details, and implementation—especially where trust,
+risk, and complex states must feel clear.
+
+## Percolator
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <a href="https://percolator-launch.vercel.app">
+        <img src="./assets/portfolio/percolator.jpg" width="100%" alt="Percolator's deployed SOL perpetual market interface with a price chart and order book" />
+      </a>
+    </td>
+    <td width="42%" valign="top">
+      <h3><a href="https://percolator.trade">Percolator</a></h3>
+      <p>Permissionless perpetual markets on Solana. I’ve contributed upstream across its launcher, protocol, staking, and keeper repositories.</p>
+      <p>My work includes oracle safety, request validation, abuse prevention, API reliability, and operational visibility. The product challenge is making open market creation and risk legible without burying the mechanics.</p>
+      <p><a href="https://percolator.trade">Visit the product</a> · <a href="https://percolator-launch.vercel.app">Deployed interface</a> · <a href="https://github.com/dcccrypto/percolator-launch">Launcher source</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
@@ -114,7 +136,9 @@ ecosystem: [percolator-launch](https://github.com/dcccrypto/percolator-launch),
 - **API reliability:** [metadata validation and request timeouts](https://github.com/dcccrypto/percolator-launch/pull/2105), fail-closed handling for malformed data, and correct [health-check status codes](https://github.com/dcccrypto/percolator-launch/pull/2051).
 - **Operational visibility:** [structured error logging](https://github.com/dcccrypto/percolator-launch/pull/2031) and rate-limit event reporting.
 
-## Tools I work with
+## Design and engineering
+
+**Product design** · Product framing · User journeys · Interaction design · Visual systems · Prototyping · Accessibility
 
 **Languages and smart contracts**
 
