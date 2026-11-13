@@ -1,0 +1,35 @@
+name: Update contribution animation
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/contribution-snake.yml
+      - README.md
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Reinasboo
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#bf7819&color_dots=#eef1f0,#b2dfe5,#76cbd7,#43aebb,#227684
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#f0b44b&color_dots=#0c1218,#1b3440,#245262,#2d8192,#43c8dd
+
+      - name: Publish generated animation
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
