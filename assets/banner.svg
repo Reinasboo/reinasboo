@@ -1,83 +1,23 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#030712" />
-      <stop offset="0.48" stop-color="#07111e" />
-      <stop offset="1" stop-color="#0f172a" />
-    </linearGradient>
-    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1024 70) rotate(135) scale(170 220)">
-      <stop stop-color="#22c55e" stop-opacity="0.55" />
-      <stop offset="1" stop-color="#22c55e" stop-opacity="0" />
-    </radialGradient>
-    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(214 238) rotate(35) scale(190 210)">
-      <stop stop-color="#38bdf8" stop-opacity="0.42" />
-      <stop offset="1" stop-color="#38bdf8" stop-opacity="0" />
-    </radialGradient>
-    <radialGradient id="glowAmber" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(660 160) rotate(90) scale(220 240)">
-      <stop stop-color="#f59e0b" stop-opacity="0.2" />
-      <stop offset="1" stop-color="#f59e0b" stop-opacity="0" />
-    </radialGradient>
-    <linearGradient id="accent" x1="120" y1="92" x2="1080" y2="238" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38bdf8" />
-      <stop offset="0.42" stop-color="#22c55e" />
-      <stop offset="1" stop-color="#f59e0b" />
-    </linearGradient>
-    <linearGradient id="outline" x1="96" y1="0" x2="1104" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#38bdf8" stop-opacity="0.18" />
-      <stop offset="0.55" stop-color="#22c55e" stop-opacity="0.12" />
-      <stop offset="1" stop-color="#f59e0b" stop-opacity="0.18" />
-    </linearGradient>
-    <filter id="blur" x="0" y="0" width="1200" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="18" />
-    </filter>
-  </defs>
-
-  <rect width="1200" height="320" rx="32" fill="url(#bg)" />
-  <rect width="1200" height="320" rx="32" fill="url(#glowGreen)" />
-  <rect width="1200" height="320" rx="32" fill="url(#glowCyan)" />
-  <rect width="1200" height="320" rx="32" fill="url(#glowAmber)" />
-
-  <g opacity="0.1">
-    <path d="M0 44H1200" stroke="#cbd5e1" />
-    <path d="M0 92H1200" stroke="#cbd5e1" />
-    <path d="M0 140H1200" stroke="#cbd5e1" />
-    <path d="M0 188H1200" stroke="#cbd5e1" />
-    <path d="M0 236H1200" stroke="#cbd5e1" />
-    <path d="M0 284H1200" stroke="#cbd5e1" />
-    <path d="M120 0V320" stroke="#cbd5e1" />
-    <path d="M240 0V320" stroke="#cbd5e1" />
-    <path d="M360 0V320" stroke="#cbd5e1" />
-    <path d="M480 0V320" stroke="#cbd5e1" />
-    <path d="M600 0V320" stroke="#cbd5e1" />
-    <path d="M720 0V320" stroke="#cbd5e1" />
-    <path d="M840 0V320" stroke="#cbd5e1" />
-    <path d="M960 0V320" stroke="#cbd5e1" />
-    <path d="M1080 0V320" stroke="#cbd5e1" />
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" rx="24" fill="#11171D" />
+  <path d="M0 250H1200M0 50H1200" stroke="#202A31" />
+  <path d="M650 0V300" stroke="#263139" />
+  <path d="M694 150H777L800 126H845M845 174L871 150H914M914 150H1000L1027 124H1090" stroke="#79CDB8" stroke-opacity=".72" stroke-width="2" />
+  <path d="M845 150H914" stroke="#79CDB8" stroke-opacity=".72" stroke-width="2" />
+  <circle cx="694" cy="150" r="5" fill="#D9A878" />
+  <circle cx="845" cy="150" r="6" fill="#79CDB8" />
+  <circle cx="914" cy="150" r="6" fill="#79CDB8" />
+  <circle cx="1090" cy="124" r="5" fill="#D9A878" />
+  <rect x="775" y="100" width="140" height="100" rx="12" fill="#172128" stroke="#34434B" />
+  <rect x="958" y="100" width="140" height="100" rx="12" fill="#172128" stroke="#34434B" />
+  <text x="64" y="112" fill="#ECF0EE" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8">Reinasboo</text>
+  <text x="67" y="158" fill="#B7C2C5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Products for complex systems</text>
+  <text x="67" y="205" fill="#79CDB8" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Onchain finance  /  AI systems  /  developer tools</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="800" y="145" fill="#ECF0EE" font-size="17" font-weight="600">Intent</text>
+    <text x="800" y="170" fill="#A5B1B6" font-size="13">Understand the goal</text>
+    <text x="983" y="145" fill="#ECF0EE" font-size="17" font-weight="600">Guardrails</text>
+    <text x="983" y="170" fill="#A5B1B6" font-size="13">Make action legible</text>
   </g>
-
-  <g filter="url(#blur)">
-    <circle cx="1020" cy="84" r="66" fill="#22c55e" fill-opacity="0.4" />
-    <circle cx="210" cy="236" r="72" fill="#38bdf8" fill-opacity="0.32" />
-    <circle cx="646" cy="160" r="108" fill="#f59e0b" fill-opacity="0.18" />
-  </g>
-
-  <path d="M96 246C204 192 292 182 388 196C494 212 584 254 694 252C824 250 920 180 1104 118" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" />
-  <path d="M96 246C204 192 292 182 388 196C494 212 584 254 694 252C824 250 920 180 1104 118" stroke="#e2e8f0" stroke-opacity="0.1" stroke-width="18" stroke-linecap="round" />
-
-  <text x="96" y="118" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.6">Reinasboo</text>
-  <text x="96" y="170" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Solana trading systems • AI agents • security tooling</text>
-
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">
-    <rect x="96" y="208" width="104" height="34" rx="17" fill="#0f172a" fill-opacity="0.9" stroke="url(#outline)" />
-    <text x="116" y="231" fill="#38bdf8">Solana</text>
-
-    <rect x="212" y="208" width="120" height="34" rx="17" fill="#0f172a" fill-opacity="0.9" stroke="url(#outline)" />
-    <text x="232" y="231" fill="#22c55e">AI Agents</text>
-
-    <rect x="344" y="208" width="116" height="34" rx="17" fill="#0f172a" fill-opacity="0.9" stroke="url(#outline)" />
-    <text x="364" y="231" fill="#f59e0b">Security</text>
-
-    <rect x="472" y="208" width="136" height="34" rx="17" fill="#0f172a" fill-opacity="0.9" stroke="url(#outline)" />
-    <text x="492" y="231" fill="#cbd5e1">Trading Infra</text>
-  </g>
+  <text x="1054" y="102" fill="#D9A878" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">OUTCOME</text>
 </svg>
