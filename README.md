@@ -13,10 +13,12 @@
   <a href="https://x.com/sharpmetaa" title="X">
     <img src="https://cdn.simpleicons.org/x/8b949e" alt="X" width="24" height="24" />
   </a>
+  &nbsp;<a href="https://x.com/sharpmetaa">@sharpmetaa</a>
   &nbsp;&nbsp;
   <a href="mailto:reinasboo@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/8b949e" alt="Email" width="24" height="24" />
   </a>
+  &nbsp;<a href="mailto:reinasboo@gmail.com">reinasboo@gmail.com</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:reinasboo@gmail.com">Open to work & collaborations</a>
 </p>
