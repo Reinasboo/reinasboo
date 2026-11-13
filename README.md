@@ -13,8 +13,12 @@
   <a href="https://x.com/sharpmetaa" title="X">
     <img src="https://cdn.simpleicons.org/x/8b949e" alt="X" width="24" height="24" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:reinasboo@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/8b949e" alt="Email" width="24" height="24" />
+  </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/sharpmetaa">Open to work & collaborations</a>
+  <a href="mailto:reinasboo@gmail.com">Open to work & collaborations</a>
 </p>
 
 I’m **Spectrolite** — a product designer and software engineer with **4 years of
@@ -179,5 +183,6 @@ help people stay in control.
 ## Open to work & collaborations
 
 I’m open to product engineering roles and thoughtful collaborations—especially
-with teams building onchain products, AI systems, or developer tools. Reach me
-through the GitHub and X icons at the top of this profile.
+with teams building onchain products, AI systems, or developer tools. Email me
+at [reinasboo@gmail.com](mailto:reinasboo@gmail.com) or connect on X at
+[@sharpmetaa](https://x.com/sharpmetaa).
