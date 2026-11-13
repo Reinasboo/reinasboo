@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/banner.svg" />
-    <img src="./assets/banner-motion.svg" alt="Spectrolite — product design and engineering for systems where money and software meet." width="100%" />
+    <img src="./assets/banner-motion.svg" alt="Spectrolite — software engineering and product design for systems where money and software meet." width="100%" />
   </picture>
 </p>
 
@@ -13,17 +13,15 @@
   <a href="https://x.com/sharpmetaa" title="X">
     <img src="https://cdn.simpleicons.org/x/8b949e" alt="X" width="24" height="24" />
   </a>
-  &nbsp;<a href="https://x.com/sharpmetaa">@sharpmetaa</a>
   &nbsp;&nbsp;
   <a href="mailto:reinasboo@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/8b949e" alt="Email" width="24" height="24" />
   </a>
-  &nbsp;<a href="mailto:reinasboo@gmail.com">reinasboo@gmail.com</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:reinasboo@gmail.com">Open to work & collaborations</a>
 </p>
 
-I’m **Spectrolite** — a product designer and software engineer with **4 years of
+I’m **Spectrolite** — a software engineer and product designer with **4 years of
 experience** building across onchain finance, AI, market infrastructure, and
 consumer products. I take products from problem framing and user flows through
 visual systems, interaction details, and implementation—especially where trust,
@@ -146,19 +144,71 @@ ecosystem: [percolator-launch](https://github.com/dcccrypto/percolator-launch),
 
 **Product design** · Product framing · User journeys · Interaction design · Visual systems · Prototyping · Accessibility
 
+**Design, motion & 3D**
+
+<p>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" title="Framer Motion" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" title="GSAP" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/lucide/8b949e" alt="Lucide React" title="Lucide React" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/threedotjs/ffffff" alt="Three.js" title="Three.js" width="32" height="32" />
+</p>
+
+<sub>Tailwind CSS · Framer Motion · GSAP · Lenis · Lucide React · Three.js · React Three Fiber · Recharts</sub>
+
 **Languages and smart contracts**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,solidity&amp;perline=5&amp;theme=dark" height="48" alt="TypeScript, JavaScript, Python, Rust, and Solidity" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,solidity,html,css,bash&amp;perline=8&amp;theme=dark" height="48" alt="TypeScript, JavaScript, Python, Rust, Solidity, HTML, CSS, and Bash" />
 </p>
 
-**Product and data**
+**Web, app, and data**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,supabase,sqlite,redis&amp;perline=7&amp;theme=dark" height="48" alt="React, Next.js, Node.js, PostgreSQL, Supabase, SQLite, and Redis" />
 </p>
 
-**Onchain, AI, and tooling**
+<p>
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" title="Express" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" title="Electron" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neon/00E599" alt="Neon" title="Neon" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/9CDBA6" alt="Prisma" title="Prisma" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="32" height="32" />
+</p>
+
+<sub>Vite · Express · Electron · Neon · Prisma · Drizzle ORM</sub>
+
+**Testing and delivery**
+
+<p>
+  <img src="https://cdn.simpleicons.org/vitest/6E9F18" alt="Vitest" title="Vitest" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" title="ESLint" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" title="Prettier" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" alt="Zod" title="Zod" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pino/687C9D" alt="Pino" title="Pino" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="32" height="32" />
+</p>
+
+<sub>Vitest · Playwright · ESLint · Prettier · Zod · Pino · BullMQ · Docker · Git</sub>
+
+**Onchain, AI, and payments**
 
 <p>
   <img src="https://cdn.simpleicons.org/solana/9945FF" alt="Solana" title="Solana" width="32" height="32" />
@@ -171,12 +221,14 @@ ecosystem: [percolator-launch](https://github.com/dcccrypto/percolator-launch),
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" width="32" height="32" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Anthropic" title="Anthropic" width="32" height="32" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" title="Stripe" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" title="Telegram" width="32" height="32" />
 </p>
 
-<sub>Anchor · Base / EVM · LangGraph</sub>
+<sub>Anchor · Base / EVM · Pyth · Solana web3.js · LangGraph · NEAR API · x402</sub>
 
 I’m interested in products that make complex actions understandable: clear
 permissions, reliable execution, evidence you can inspect, and interfaces that
@@ -185,6 +237,5 @@ help people stay in control.
 ## Open to work & collaborations
 
 I’m open to product engineering roles and thoughtful collaborations—especially
-with teams building onchain products, AI systems, or developer tools. Email me
-at [reinasboo@gmail.com](mailto:reinasboo@gmail.com) or connect on X at
-[@sharpmetaa](https://x.com/sharpmetaa).
+with teams building onchain products, AI systems, or developer tools. Reach me
+through the contact icons at the top of this profile.
