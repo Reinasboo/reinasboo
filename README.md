@@ -11,9 +11,9 @@
 </p>
 
 I’m **Spectrolite** — a product-focused software engineer with **4 years of
-experience** building across onchain finance, AI, and developer tools. I enjoy
-owning the whole problem, from system architecture and risk controls to the
-details people interact with.
+experience** building across onchain finance, AI, market infrastructure, and
+consumer products. I enjoy owning the whole problem, from system architecture
+and risk controls to the details people interact with.
 
 ## Selected work
 
@@ -56,46 +56,64 @@ details people interact with.
   </tr>
 </table>
 
-## More I’ve built
-
-- **[HELD](https://heldevents.vercel.app)** — event reservations with refundable commitments, organizer check-in, and Solana escrow. <a href="https://github.com/Reinasboo/held">Source</a>
-- **[Chorus](https://github.com/Reinasboo/chorus)** — collaborative finance and AI-assisted planning with human-controlled approvals.
-- **[Agentic Wallet](https://github.com/Reinasboo/Agentic-wallet)** — intent-driven wallet orchestration and agent coordination on Solana.
-- **[Market research and trading systems](https://github.com/Reinasboo/Spectrolite)** — market signals, analysis, and automated execution.
-- **[SPARTAN](https://github.com/Reinasboo/SPARTAN)** — structured security-audit workflows for Web2 and Web3.
-
-## Open-source contributions
+## More from the portfolio
 
 <table>
   <tr>
-    <td valign="top" width="30%">
-      <h2>71</h2>
-      <p><strong>merged pull requests</strong></p>
-      <p>Contributions to four upstream repositories in the Percolator ecosystem.</p>
-      <p><a href="https://github.com/dcccrypto/percolator-launch">percolator-launch</a> · <a href="https://github.com/dcccrypto/percolator-stake">percolator-stake</a> · <a href="https://github.com/dcccrypto/percolator">percolator</a> · <a href="https://github.com/dcccrypto/percolator-keeper">percolator-keeper</a></p>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Reinasboo/goalproof">
+        <img src="./assets/portfolio/goalproof.png" width="100%" alt="GoalProof workspace showing fixtures, open positions, settlement status, and a proof-backed market ledger" />
+      </a>
+      <h3><a href="https://github.com/Reinasboo/goalproof">GoalProof</a></h3>
+      <p>Verifiable prediction markets on Solana. TxLINE fixture context, Anchor escrow, keeper settlement, and proof receipts connect each market to a clear resolution path.</p>
     </td>
-    <td valign="top" width="70%">
-      <strong>What those contributions cover</strong>
-      <ul>
-        <li><strong>Security and validation:</strong> <a href="https://github.com/dcccrypto/percolator-launch/pull/2045">Pyth oracle buffer bounds</a>, <a href="https://github.com/dcccrypto/percolator-launch/pull/1993">RPC origin validation</a>, and <a href="https://github.com/dcccrypto/percolator-launch/pull/2013">IP-bound market challenges</a>.</li>
-        <li><strong>Abuse prevention:</strong> <a href="https://github.com/dcccrypto/percolator-launch/pull/2104">atomic Redis rate limiting</a> and safer devnet mint controls.</li>
-        <li><strong>API reliability:</strong> <a href="https://github.com/dcccrypto/percolator-launch/pull/2105">metadata validation and request timeouts</a>, fail-closed handling for malformed data, and correct <a href="https://github.com/dcccrypto/percolator-launch/pull/2051">health-check status codes</a>.</li>
-        <li><strong>Operational visibility:</strong> <a href="https://github.com/dcccrypto/percolator-launch/pull/2031">structured error logging</a> and rate-limit event reporting.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Reinasboo/momentum-league">
+        <img src="./assets/portfolio/momentum-league.svg" width="100%" alt="Momentum League matchday artwork: a football pitch, penalty-shot trajectory, and fan-room controls" />
+      </a>
+      <h3><a href="https://github.com/Reinasboo/momentum-league">Momentum League</a></h3>
+      <p>A football matchday product with fixture-based fan rooms, predictions, standings, and a penalty-shootout game. Built with React, Vite, Express, and Solana sign-in.</p>
     </td>
   </tr>
 </table>
 
-## Contributions in motion
+**Markets and onchain systems**
 
-The snake follows my live contribution grid. The animation refreshes automatically.
+- **[Sentra Terminal](https://github.com/Reinasboo/sentra-terminal)** — Solana perpetuals analytics, market signals, and trader-focused research.
+- **[Oracle Percolator](https://github.com/Reinasboo/oracle-percolator)** — multi-asset oracle intelligence with confidence, latency, spread, deviation, and anomaly telemetry.
+- **[Smart Trader](https://github.com/Reinasboo/smart-trader)** — strategy-driven Solana market scanning and execution with explicit risk controls.
+- **[TraderLite](https://github.com/Reinasboo/traderlite)** — Telegram-sourced trade monitoring, duplicate-buy safeguards, execution tracking, and a read-only PnL dashboard.
+- **[Agentic Wallet](https://github.com/Reinasboo/Agentic-wallet)** — intent-driven wallet orchestration and multi-agent coordination on Solana.
+- **[Spectrolite trading systems](https://github.com/Reinasboo/Spectrolite)** — market signals, analysis, and automated execution across Solana and EVM.
+- **[Flash](https://github.com/Reinasboo/Flash)** — an agent wallet built for the Stellar ecosystem.
+
+**Consumer products, community, and tools**
+
+- **[HELD](https://heldevents.vercel.app)** — event reservations with refundable commitments, organizer check-in, and Solana escrow. <a href="https://github.com/Reinasboo/held">Source</a>
+- **[Chorus](https://github.com/Reinasboo/chorus)** — collaborative finance and AI-assisted planning with human-controlled approvals.
+- **[HolderProof](https://github.com/Reinasboo/holderproof)** — read-only wallet monitoring with a queue-backed event pipeline.
+- **[Attention Market](https://github.com/Reinasboo/attention-market)** — transparent, deterministic scoring for emerging crypto narratives.
+- **[DietMonitor](https://github.com/Reinasboo/dietmonitor)** — meal logging and pattern summaries.
+- **[AMORA](https://github.com/Reinasboo/amora)** — a digital experience for a creative studio.
+- **[SPARTAN](https://github.com/Reinasboo/SPARTAN)** — structured security-review workflows for web and onchain systems.
+
+## Open-source contributions
+
+Merged contributions across four upstream repositories in the Percolator
+ecosystem: [percolator-launch](https://github.com/dcccrypto/percolator-launch),
+[percolator-stake](https://github.com/dcccrypto/percolator-stake),
+[percolator](https://github.com/dcccrypto/percolator), and
+[percolator-keeper](https://github.com/dcccrypto/percolator-keeper).
+
+- **Oracle safety:** [Pyth oracle buffer bounds](https://github.com/dcccrypto/percolator-launch/pull/2045), [RPC origin validation](https://github.com/dcccrypto/percolator-launch/pull/1993), and [IP-bound market challenges](https://github.com/dcccrypto/percolator-launch/pull/2013).
+- **Abuse prevention:** [atomic Redis rate limiting](https://github.com/dcccrypto/percolator-launch/pull/2104) and safer devnet mint controls.
+- **API reliability:** [metadata validation and request timeouts](https://github.com/dcccrypto/percolator-launch/pull/2105), fail-closed handling for malformed data, and correct [health-check status codes](https://github.com/dcccrypto/percolator-launch/pull/2051).
+- **Operational visibility:** [structured error logging](https://github.com/dcccrypto/percolator-launch/pull/2031) and rate-limit event reporting.
+
+## Contribution activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reinasboo/reinasboo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reinasboo/reinasboo/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Reinasboo/reinasboo/output/github-contribution-grid-snake.svg" alt="Animated contribution snake moving through my GitHub contribution calendar" />
-  </picture>
+  <img src="https://ghchart.rshah.org/43c8dd/Reinasboo" width="100%" alt="GitHub contribution activity by day" />
 </p>
 
 ## Tools I work with
