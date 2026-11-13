@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Reinasboo">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/sharpmetaa">X</a>
+  <a href="https://github.com/Reinasboo" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/8b949e" alt="GitHub" width="24" height="24" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/sharpmetaa" title="X">
+    <img src="https://cdn.simpleicons.org/x/8b949e" alt="X" width="24" height="24" />
+  </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/sharpmetaa">Open to work & collaborations</a>
 </p>
@@ -110,19 +114,39 @@ ecosystem: [percolator-launch](https://github.com/dcccrypto/percolator-launch),
 - **API reliability:** [metadata validation and request timeouts](https://github.com/dcccrypto/percolator-launch/pull/2105), fail-closed handling for malformed data, and correct [health-check status codes](https://github.com/dcccrypto/percolator-launch/pull/2051).
 - **Operational visibility:** [structured error logging](https://github.com/dcccrypto/percolator-launch/pull/2031) and rate-limit event reporting.
 
-## Contribution activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/43c8dd/Reinasboo" width="100%" alt="GitHub contribution activity by day" />
-</p>
-
 ## Tools I work with
 
-**Languages** · TypeScript · JavaScript · Python · Rust · Solidity<br />
-**Product engineering** · React · Next.js · Node.js<br />
-**Onchain** · Solana · Anchor · Base / EVM · NEAR<br />
-**Data and infrastructure** · PostgreSQL · Supabase · SQLite · Redis<br />
-**AI and research** · Agent workflows · LangGraph · PyTorch
+**Languages and smart contracts**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,rust,solidity&amp;perline=5&amp;theme=dark" height="48" alt="TypeScript, JavaScript, Python, Rust, and Solidity" />
+</p>
+
+**Product and data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,supabase,sqlite,redis&amp;perline=7&amp;theme=dark" height="48" alt="React, Next.js, Node.js, PostgreSQL, Supabase, SQLite, and Redis" />
+</p>
+
+**Onchain, AI, and tooling**
+
+<p>
+  <img src="https://cdn.simpleicons.org/solana/9945FF" alt="Solana" title="Solana" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" alt="Base and EVM" title="Base and EVM" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/near/8b949e" alt="NEAR" title="NEAR" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/8ebfa5" alt="LangGraph and agent workflows" title="LangGraph and agent workflows" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="32" height="32" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="32" height="32" />
+</p>
+
+<sub>Anchor · Base / EVM · LangGraph</sub>
 
 I’m interested in products that make complex actions understandable: clear
 permissions, reliable execution, evidence you can inspect, and interfaces that
@@ -132,4 +156,4 @@ help people stay in control.
 
 I’m open to product engineering roles and thoughtful collaborations—especially
 with teams building onchain products, AI systems, or developer tools. Reach me
-on [X](https://x.com/sharpmetaa) or through [GitHub](https://github.com/Reinasboo).
+through the GitHub and X icons at the top of this profile.
